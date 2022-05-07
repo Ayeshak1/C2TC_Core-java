@@ -6,9 +6,9 @@ import java.util.Set;
 
 public class main {
 
-	public static void main(String[] args) {
+	public main(String[] args) {
 		
-		List obj = new ArrayList ();
+		List<String> obj = new ArrayList<String> ();
 		obj.add("object");
 		obj.add("methd");
 		obj.add("10.0");
